@@ -1,5 +1,6 @@
 import random
 
+
 def proposeNewGame():
     userSelection = input("Would you like to play a game? (y/n)\n")
     if userSelection == "y" or userSelection ==  "Y" :
